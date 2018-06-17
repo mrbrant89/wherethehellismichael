@@ -1,0 +1,29 @@
+---
+layout: single
+title: "Social Media: What Does It All Mean"
+date: 2011-02-18 12:00
+author: mrbrant
+comments: true
+categories: [consumers, hootsuite, marketing, Other, ping.fm, seesmic, social media, tweetdeck]
+---
+Everyone is talking about social media. It's the next big thing. That said, a lot of people are asking <code>"but what does it all mean?"</code> or <code>"what does it mean for me or my business?"</code>. <code>"Is it here to stay?"</code> These are all important questions but they do not have simple answers.
+
+Social media is defined as <code>"the use of web-based and mobile technologies to turn communication into interactive dialogue"</code>. And that is what it does in a nutshell - it makes the connection between customer &amp; business, consumer &amp; advertiser and friend &amp; friend an interactive, live, instantaneously gratifying experience.
+
+There are literally hundreds - perhaps thousands - of different platforms for social media. New ones spring up everyday and, just as quickly, others die a silent and unnoticed death. The big ones are <a href="http://twitter.com" target="_blank">Twitter</a>, <a href="http://facebook.com" target="_blank">Facebook</a> and <a href="http://linkedin.com">Linkedin</a> of course, but there are quite a few niche sites as well; for photographers - <a href="http://flickr.com" target="_blank">Flickr</a> &amp; <a href="http://modelmayhem.com" target="_blank">Model Mayhem</a>. For music lovers - <a href="http://pandora.com" target="_blank">Pandora</a>, <a href="http://last.fm" target="_blank">Last.fm</a> and P<a href="http://purevolume.com" target="_blank">ure Volume</a>. And these are just a select few. There are also social bookmarking sites such as <a href="http://stumbleupon.com" target="_blank">Stumble Upon</a> (my personal favorite), <a href="http://redit.com" target="_blank">Redit</a>, <a href="http://del.icio.us" target="_blank">Delicious</a> and <a href="http://digg.com" target="_blank">Digg</a>. Each of these sites targets different groups of consumers and many include a wide array of tools, widgets and extensions which work with them.
+<h3>Popular Social Media Tools</h3>
+[box type="shadow"]<a href="http://tweetdeck.com"><img class="alignleft size-full wp-image-587" title="Tweetdeck" src="http://michaelbrant.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-1.43.39-AM.png" alt="Tweetdeck" width="179" height="50" /></a><a href="http://tweetdeck.com" target="_blank"><strong>Tweetdeck</strong></a> - combines Twitter, Facebook, Facebook Pages, Linkedin, Google Buzz, FourSquare and Myspace. It has a Google Chrome Webapp, a Desktop client and support for iOS, Android and Blackberry mobile devices.[/box]
+
+[box type="shadow"]<a href="http://seesmic.com"><img class="alignleft size-full wp-image-588" title="Seesmic" src="http://michaelbrant.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-1.45.27-AM.png" alt="Seesmic" width="74" height="70" /></a><img class="alignright size-full wp-image-589" title="Ping.fm" src="http://michaelbrant.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-1.46.13-AM.png" alt="Ping.fm" width="144" height="79" /><a href="http://ping.fm" target="_blank"><strong>Ping.fm</strong></a> &amp; <a href="http://seesmic.com" target="_blank"><strong>Seesmic</strong></a> - similar to Tweetdeck but supports many more social networks. Ping.fm is a purely web-based, mass-update service. But Seesmic is the application component similar to Tweetdeck which has a cross-browser Webapp, Desktop client and support for iOS, Android and Blackberry mobile devices as well.[/box]
+
+[box type="shadow"]<a href="http://hootsuite.com"><img class="size-full wp-image-590 alignright" title="Hootsuite" src="http://michaelbrant.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-1.54.45-AM.png" alt="Hootsuite" width="148" height="35" /></a><a href="http://hootsuite.com" target="_blank"><strong>Hootsuite</strong></a> - similar to Tweetdeck, Ping.fm and Seesmic but entirely web-based. It has a lot of analytics built-in and allows multiple users to manage the same account. The only downside is that they charge for all of the features that set them apart from (free) Tweetdeck and (free) Seesmic.[/box]
+<h3>What Does It All Mean</h3>
+In the 50s there were only three television networks. Most people did not own remote controls. In other words, consumers were unable to avoid advertisements short of physically getting up to turn off their television. Advertisements were also directed at a broad audience of consumers whereas today we target specific niches within the overall population.
+
+In our increasingly "plugged in" world, we have transitioned into what is called <em>permission marketing</em>. In other words, you need the consent of your publics in order to market to them. Social marketing and new media are the key to getting the permission of your target market.
+
+Although social media can and should be used to market your brand, the focus should not be 100% on marketing product. If you overwhelm your audience, they will withdraw their consent for you to market to them (ie: delete you). Most successful social marketers post very few advertisements. Instead they tend to post articles that are interesting and relevant to their brand in order to connect with their publics. That way when they DO post an advertisement, their message is much more profound since they have the trust and loyalty of their consumers.
+<h3>You Can Do It!</h3>
+The key to promoting your business online and using social marketing to your benefit is establishing an online following. Use the suggested tools to simplify managing different communication channels. Post interesting articles to attract followers. Start a blog for your business and write your own articles.
+
+Remember, successful marketing isn't about you. Humans are self-centered. We want to hear about us. Use social media to satisfy that vanity.
