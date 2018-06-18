@@ -6,6 +6,54 @@ author: mrbrant
 comments: true
 categories: Travel, North America, Cuba
 tags: [cienfuegos, Cuba, cuba, The Americas]
+header:
+    image: https://flic.kr/p/EXWJ9x
+    caption: "Cienfuegos, Cuba"
+gallery:
+  - url: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
+    image_path: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
+    alt: "Matanzas⁩, ⁨Cuba⁩"
+    title: "Matanzas⁩, ⁨Cuba⁩"
+  - url: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47_n.jpg
+    image_path: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47_n.jpg
+    alt: "Cienfuegos Lunch"
+    title: "Cienfuegos Lunch"
+  - url: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59_n.jpg
+    image_path: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59_n.jpg
+    alt: "Communist Commissary"
+    title: "Communist Commissary"
+  - url: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8_n.jpg
+    image_path: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8_n.jpg
+    alt: "Propaganda Museum Tour"
+    title: "Propaganda Museum Tour"
+  - url: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca_n.jpg
+    image_path: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca_n.jpg
+    alt: "The Casa Particular Bedroom"
+    title: "The Casa Particular Bedroom"
+  - url: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8_n.jpg
+    image_path: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8_n.jpg
+    alt: "Walking Around the Cienfuegos City Centre"
+    title: "Walking Around the Cienfuegos City Centre"
+  - url: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9_n.jpg
+    image_path: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9_n.jpg
+    alt: "Che Everywhere"
+    title: "Che Everywhere"
+  - url: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4_n.jpg
+    image_path: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4_n.jpg
+    alt: "Cienfuegos at Night"
+    title: "Cienfuegos at Night"
+  - url: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11_n.jpg
+    image_path: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11_n.jpg
+    alt: "Cienfuegos Monuments at Night"
+    title: "Cienfuegos Monuments at Night"
+  - url: https://farm2.staticflickr.com/1573/25456066722_977c126bf4_n.jpg
+    image_path: https://farm2.staticflickr.com/1573/25456066722_977c126bf4_n.jpg
+    alt: "Cienfuegos Sunrise"
+    title: "Cienfuegos Sunrise"
+  - url: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
+    image_path: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
+    alt: "Cienfuegos Public Transport"
+    title: "Cienfuegos Public Transport"    
 ---
 
 There's not a lot to say about this town really. It's very modest. My first impression was that there are no international chains. No fast food. No flashy signs. Most of the buildings look empty unless you walk up and look in.
@@ -41,5 +89,4 @@ I ate:
 </ul>
 Again I couldn't get over how cheap the prices were. And the food quality was very good.
 
-<h2>Pictures from Cienfuegos</h2>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mrbrant/albums/72157664860555909" title="Cuba"><img src="https://farm2.staticflickr.com/1699/25481958161_63c5b8a407_n.jpg" width="320" height="240" alt="Cuba"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{% include gallery caption="Pictures from Cienfuegos" %}
