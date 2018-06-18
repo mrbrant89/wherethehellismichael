@@ -6,51 +6,51 @@ comments: true
 categories: [Travel, North America, Cuba]
 tags: [cienfuegos, Cuba, cuba, The Americas]
 header:
-    image: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
+    image: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a.jpg
     caption: "Cienfuegos, Cuba"
 gallery:
-  - url: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
-    image_path: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
+  - url: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042.jpg
+    image_path: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042.jpg
     alt: "Matanzas⁩, ⁨Cuba⁩"
     title: "Matanzas⁩, ⁨Cuba⁩"
-  - url: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47_n.jpg
-    image_path: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47_n.jpg
+  - url: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47.jpg
+    image_path: https://farm2.staticflickr.com/1487/25279038800_f49ecb0e47.jpg
     alt: "Cienfuegos Lunch"
     title: "Cienfuegos Lunch"
-  - url: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59_n.jpg
-    image_path: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59_n.jpg
+  - url: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59.jpg
+    image_path: https://farm2.staticflickr.com/1646/24947962363_c7547b2d59.jpg
     alt: "Communist Commissary"
     title: "Communist Commissary"
-  - url: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8_n.jpg
-    image_path: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8_n.jpg
+  - url: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8.jpg
+    image_path: https://farm2.staticflickr.com/1676/24944156464_f700d67ec8.jpg
     alt: "Propaganda Museum Tour"
     title: "Propaganda Museum Tour"
-  - url: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca_n.jpg
-    image_path: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca_n.jpg
+  - url: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca.jpg
+    image_path: https://farm2.staticflickr.com/1610/25456073302_8b0ba2dcca.jpg
     alt: "The Casa Particular Bedroom"
     title: "The Casa Particular Bedroom"
-  - url: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8_n.jpg
-    image_path: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8_n.jpg
+  - url: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8.jpg
+    image_path: https://farm2.staticflickr.com/1618/24947961413_8c147edcd8.jpg
     alt: "Walking Around the Cienfuegos City Centre"
     title: "Walking Around the Cienfuegos City Centre"
-  - url: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9_n.jpg
-    image_path: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9_n.jpg
+  - url: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9.jpg
+    image_path: https://farm2.staticflickr.com/1660/25207103949_9e8f054ed9.jpg
     alt: "Che Everywhere"
     title: "Che Everywhere"
-  - url: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4_n.jpg
-    image_path: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4_n.jpg
+  - url: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4.jpg
+    image_path: https://farm2.staticflickr.com/1508/25481940761_cfb2a8f9b4.jpg
     alt: "Cienfuegos at Night"
     title: "Cienfuegos at Night"
-  - url: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11_n.jpg
-    image_path: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11_n.jpg
+  - url: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11.jpg
+    image_path: https://farm2.staticflickr.com/1516/25456068682_37e69f4d11.jpg
     alt: "Cienfuegos Monuments at Night"
     title: "Cienfuegos Monuments at Night"
-  - url: https://farm2.staticflickr.com/1573/25456066722_977c126bf4_n.jpg
-    image_path: https://farm2.staticflickr.com/1573/25456066722_977c126bf4_n.jpg
+  - url: https://farm2.staticflickr.com/1573/25456066722_977c126bf4.jpg
+    image_path: https://farm2.staticflickr.com/1573/25456066722_977c126bf4.jpg
     alt: "Cienfuegos Sunrise"
     title: "Cienfuegos Sunrise"
-  - url: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
-    image_path: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
+  - url: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a.jpg
+    image_path: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a.jpg
     alt: "Cienfuegos Public Transport"
     title: "Cienfuegos Public Transport"  
 classes: wide
