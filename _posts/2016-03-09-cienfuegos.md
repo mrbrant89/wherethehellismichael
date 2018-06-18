@@ -4,9 +4,9 @@ title: "Cienfuegos"
 date: 2016-03-09 16:00
 author: mrbrant
 comments: true
-categories: [cienfuegos, Cuba, cuba, The Americas]
+categories: Travel, North America, Cuba
+tags: [cienfuegos, Cuba, cuba, The Americas]
 ---
-[et_pb_section admin_label="section"][et_pb_row admin_label="row"][et_pb_column type="4_4"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
 
 There's not a lot to say about this town really. It's very modest. My first impression was that there are no international chains. No fast food. No flashy signs. Most of the buildings look empty unless you walk up and look in.
 
@@ -41,10 +41,5 @@ I ate:
 </ul>
 Again I couldn't get over how cheap the prices were. And the food quality was very good.
 
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fullwidth="off" specialty="off" admin_label="Section"][et_pb_row admin_label="Row"][et_pb_column type="4_4"][et_pb_text admin_label="Text" background_layout="light" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2>Pictures from Cienfuegos</h2>
-[RFG_gallery id='3']
-
-[/et_pb_text][et_pb_button admin_label="Button" button_url="http://wherethehellismichael.com/pictures/cuba/" url_new_window="off" button_text="View Cuba Pictures" button_alignment="right" background_layout="light" custom_button="on" button_text_color="#b1060f" button_border_color="#b1060f" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" saved_tabs="all"]
-
-[/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mrbrant/albums/72157664860555909" title="Cuba"><img src="https://farm2.staticflickr.com/1699/25481958161_63c5b8a407_n.jpg" width="320" height="240" alt="Cuba"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
