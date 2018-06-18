@@ -2,12 +2,11 @@
 layout: single
 title: "Cienfuegos"
 date: 2016-03-09 16:00
-author: mrbrant
 comments: true
 categories: [Travel, North America, Cuba]
 tags: [cienfuegos, Cuba, cuba, The Americas]
 header:
-    image: https://flic.kr/p/EXWJ9x
+    image: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
     caption: "Cienfuegos, Cuba"
 gallery:
   - url: https://farm2.staticflickr.com/1700/25574660115_bfa79ba042_n.jpg
@@ -53,7 +52,8 @@ gallery:
   - url: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
     image_path: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_n.jpg
     alt: "Cienfuegos Public Transport"
-    title: "Cienfuegos Public Transport"    
+    title: "Cienfuegos Public Transport"  
+classes: wide
 ---
 
 There's not a lot to say about this town really. It's very modest. My first impression was that there are no international chains. No fast food. No flashy signs. Most of the buildings look empty unless you walk up and look in.
