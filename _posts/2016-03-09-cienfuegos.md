@@ -6,7 +6,7 @@ comments: true
 categories: [Travel, North America, Cuba]
 tags: [cienfuegos, Cuba, cuba, The Americas]
 header:
-    image: https://farm2.staticflickr.com/1447/24947955783_1287f36a7a_k.jpg
+    image: https://farm2.staticflickr.com/1447/24947955783_da1236445e_k.jpg
     caption: "Cienfuegos, Cuba"
 gallery:
   - url: https://farm2.staticflickr.com/1700/25574660115_c2c2eec973_k.jpg
