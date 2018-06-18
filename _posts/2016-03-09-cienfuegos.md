@@ -4,7 +4,7 @@ title: "Cienfuegos"
 date: 2016-03-09 16:00
 author: mrbrant
 comments: true
-categories: Travel, North America, Cuba
+categories: [Travel, North America, Cuba]
 tags: [cienfuegos, Cuba, cuba, The Americas]
 header:
     image: https://flic.kr/p/EXWJ9x
